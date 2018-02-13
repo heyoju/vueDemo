@@ -1,0 +1,6 @@
+/**
+ * 特别处理-叶子节点也使用文件夹
+ */
+.ztree li span.button.ico_docu{margin-right:2px; background-position:-110px 0px; vertical-align:top; *vertical-align:middle}
+/*.ztree li span.button.switch.level0 {visibility:hidden; width:1px;}
+.ztree li ul.level0 {padding:0; background:none;}*/
