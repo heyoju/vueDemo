@@ -1,6 +1,6 @@
-1.element el-table��ѡ
+﻿1.element el-table单选
 ![image](https://github.com/heyoju/vueDemo/blob/master/screenshots/element_table_%E5%8D%95%E9%80%89.png)
-2.zTreeΨһ��Ŀ¼��ק��
+2.zTree唯一跟目录拖拽树
 ![image](https://github.com/heyoju/vueDemo/blob/master/screenshots/ztree_%E6%8B%96%E6%8B%BD%E6%A0%91%E5%94%AF%E4%B8%80%E8%B7%9F%E7%9B%AE%E5%BD%95.png)
 
 
