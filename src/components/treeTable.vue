@@ -177,7 +177,7 @@
 }
 </style>
 <style >
-//修改element的默认样式,加elTree是防止在单页应用中污染全局的样式
+/**修改element的默认样式,加elTree是防止在单页应用中污染全局的样式**/
 .elTree .el-tree-node__content{
 	height: 50px;
 	border-bottom: 1px solid gainsboro;
