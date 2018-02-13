@@ -5,8 +5,6 @@
 	</div>
 	
 	<div class="elTree">
-	
- 			
 			<el-tree
 		  	:data="data4"
 		  	:props="defaultProps"
